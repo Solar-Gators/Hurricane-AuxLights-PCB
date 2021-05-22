@@ -2,6 +2,56 @@
 FileName = Aux_Lights_Daughter_REV2.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 15
+      File : Aux_Lights_Daughter_REV2.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Aux_Lights_Daughter_REV2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Aux_Lights_Daughter_REV2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Aux_Lights_Daughter_REV2.GBL
 
@@ -11,9 +61,7 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D37
-    D38
+    D13
     D39
     D40
     D41
@@ -21,38 +69,8 @@ Used DCodes :
     D43
     D44
     D45
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Aux_Lights_Daughter_REV2.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D12
     D46
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Aux_Lights_Daughter_REV2.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
+    D47
 *************************************************************
 
 *************************************************************
@@ -65,20 +83,31 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D16
-    D17
-    D18
     D19
     D20
     D21
-    D37
-    D38
-    D39
+    D22
+    D23
+    D24
     D40
     D41
     D42
     D43
     D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Aux_Lights_Daughter_REV2.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D48
 *************************************************************
 
 *************************************************************
@@ -89,7 +118,29 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D10
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Aux_Lights_Daughter_REV2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
 *************************************************************
 
 *************************************************************
@@ -104,9 +155,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D22
-    D23
-    D24
     D25
     D26
     D27
@@ -119,11 +167,15 @@ Used DCodes :
     D34
     D35
     D36
+    D37
+    D38
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : Aux_Lights_Daughter_REV2.GTL
+Generating : Top Paste
+      File : Aux_Lights_Daughter_REV2.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -131,22 +183,12 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D16
-    D17
-    D18
     D19
     D20
     D21
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
+    D22
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -163,23 +205,14 @@ Used DCodes :
     D13
     D14
     D15
+    D16
+    D17
+    D18
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : Aux_Lights_Daughter_REV2.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Aux_Lights_Daughter_REV2.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Pad Master
+      File : Aux_Lights_Daughter_REV2.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -187,46 +220,12 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Aux_Lights_Daughter_REV2.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
     D46
-    D47
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Aux_Lights_Daughter_REV2.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
 *************************************************************
 

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Aux_Lights_Daughter_REV2.PcbDoc]
+   Generated File[Aux_Lights_Daughter_REV2.TXT]
+   Generated File[Aux_Lights_Daughter_REV2.LDP]
+   Generated File[Aux_Lights_Daughter_REV2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:51:03 PM On 10/13/2020

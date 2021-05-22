@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5V Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Removed Member From Class: ClassName=Aux_Lights_Daughter_REV2 Member=VR1
+Added Pin To Net: NetName=pressureInput Pin=*1-6
+Added Pin To Net: NetName=pressureInput Pin=IC2-1
+Added Net: Name=pressureInput
+Change Class Name : Old Net Name=Aux_Lights_Daughter_REV2 New Net Name=Aux_Lights_Daughter_REV2_1
+Added Room: Name=Aux_Lights_Daughter_REV2_1

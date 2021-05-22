@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Aux_Lights_Daughter_REV2.PcbDoc   10/13/2020  8:51:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Aux_Lights_Daughter_REV2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             7         PTH        0.00inch (0.00mm)
+T2      10mil (0.254mm)                                           Round             22        PTH        0.00inch (0.00mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T5      39mil (1mm)             +/-2mil (0.051mm)                 Round             18        PTH        0.00inch (0.00mm)
+T6      40mil (1.016mm)         +/-2mil (0.051mm)                 Round             16        PTH        0.00inch (0.00mm)
+T7      41mil (1.041mm)         +/-2mil (0.051mm)                 Round             2         PTH        0.00inch (0.00mm)
+T8      50mil (1.27mm)          +/-2mil (0.051mm)                 Round             4         PTH        0.00inch (0.00mm)
+T9      70mil (1.778mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T10     125mil (3.175mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              98
+
+Total Processing Time (hh:mm:ss) : 00:00:00
